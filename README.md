@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project automates the process of searching for a specified word on a demo marketplace name Luma, or any other marketplace. The automation script can be executed using Selenium/Java.
+This project automates the process of searching for a specified word on a demo marketplace named Luma. The automation was done with Selenium/Java.
 
 ## Features
 
